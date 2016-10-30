@@ -1,5 +1,5 @@
 ﻿body {
-    background-color:black;
+    background-color: black;
 }
 #title{
     text-align:center;
@@ -16,11 +16,14 @@
 #magica{
     display:block;
     margin:auto;
+    position:center;
 }
 #option{
     color:white;
     font-size:larger;
     text-align:center;
+    margin-top:-300px;
+    margin-bottom:300px;
 }
 button{
     border-radius:50%;
